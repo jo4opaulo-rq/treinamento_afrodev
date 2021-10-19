@@ -1,5 +1,5 @@
 # treinamento_afrodev
-3ª edição do programa afrodev, as trilhas serão patrocinadas pela Suzano S.A e pela Alelo.  Formações na linguagem Python.
+3ª edição do programa afrodev, as trilhas são patrocinadas pela Suzano S.A e pela Alelo.  Formações na linguagem Python.
 
 # Repositório utilizado no Treinamento Avançado de Ciência de Dados:
 
