@@ -1,0 +1,15 @@
+SalesID
+MachineID
+ModelID
+YearMade
+fiModelDesc
+fiBaseModel
+fiSecondaryDesc
+fiModelDescriptor
+ProductSize
+fiProductClassDesc
+Enclosure
+Coupler_System
+Grouser_Tracks
+saleYear
+saleElapsed

@@ -1,0 +1,7 @@
+Age
+Balance
+NumOfProducts
+IsActiveMember
+Geography_isFrance
+Geography_isGermany
+Gender_isFemale
